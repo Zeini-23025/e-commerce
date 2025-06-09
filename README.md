@@ -86,7 +86,7 @@ try {
 /user           # Interface utilisateur
 /config         # Configuration base de données
 /src            # les filles html , css , php
-/uploads         # les images 
+/uploads        # les images 
 /database.sql   # Script SQL pour créer la base de données et les tables
 ```
 
